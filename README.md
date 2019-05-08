@@ -1,5 +1,5 @@
 # 50_days_of_Coding
-Daily one mathematical logical program(Java) and one data structure program
+//Daily one mathematical logical program(Java) and one data structure program
 
 ##### Day 1 : Program to find whether kth bit is set or not
 ##### Day 2 : Finding the nearest multiple of 10
